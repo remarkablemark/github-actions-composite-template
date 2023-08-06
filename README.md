@@ -8,8 +8,13 @@
 ## Quick Start
 
 ```yaml
-- name: GitHub Actions Composite Template
-  uses: remarkablemark/github-actions-composite-template@v1
+on: push
+jobs:
+  github-actions-composite-template:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Actions Composite Template
+        uses: remarkablemark/github-actions-composite-template@v1
 ```
 
 ## Usage
@@ -19,8 +24,7 @@ See [action.yml](action.yml)
 **Basic:**
 
 ```yaml
-steps:
-  - uses: remarkablemark/github-actions-composite-template@v1
+- uses: remarkablemark/github-actions-composite-template@v1
 ```
 
 ## Inputs
