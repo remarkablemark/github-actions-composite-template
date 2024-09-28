@@ -42,7 +42,7 @@ See [action.yml](action.yml)
 
 ## Contributions
 
-Contributions are welcome!
+Contributions are welcome! 👋
 
 ## License
 
