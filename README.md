@@ -9,6 +9,7 @@
 ## Quick Start
 
 ```yaml
+# .github/workflows/github-actions-composite-template.yml
 on: push
 jobs:
   github-actions-composite-template:
