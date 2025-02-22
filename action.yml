@@ -4,6 +4,7 @@ author: remarkablemark
 inputs:
   version:
     description: Description
+    required: false
     default: 1.2.3
 runs:
   using: composite
