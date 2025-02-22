@@ -21,13 +21,13 @@ jobs:
 
 ## Usage
 
-See [action.yml](action.yml)
-
 **Basic:**
 
 ```yaml
 - uses: remarkablemark/github-actions-composite-template@v1
 ```
+
+See [action.yml](action.yml)
 
 ## Inputs
 
