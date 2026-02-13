@@ -2,7 +2,7 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/remarkablemark/github-actions-composite-template)](https://github.com/remarkablemark/github-actions-composite-template/releases)
 [![test](https://github.com/remarkablemark/github-actions-composite-template/actions/workflows/test.yml/badge.svg)](https://github.com/remarkablemark/github-actions-composite-template/actions/workflows/test.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![lint](https://github.com/remarkablemark/github-actions-composite-template/actions/workflows/lint.yml/badge.svg)](https://github.com/remarkablemark/github-actions-composite-template/actions/workflows/lint.yml)
 
 ⚙️ GitHub Actions Composite Template. Inspired by [remarkablemark/hello-world-composite-action](https://github.com/remarkablemark/hello-world-composite-action).
 
